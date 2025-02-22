@@ -1,5 +1,5 @@
-# [0d00.cn](https://0d00.cn)
+# [murasame.xin](https://murasame.xin)
 
-> 私のオナニーを見てください！
+> 硬的是骨头！主人刚才莫得是本座胸前的骨头！
 
 烂活，烂代码
