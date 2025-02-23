@@ -54,7 +54,7 @@
       setTimeout(() => {
         tip.style.display = 'none';
         window.player.play();
-        document.title = '啊啊啊--------!！';
+        document.title = '是飞机场还真是对不起狗~修~金~呢~😡';
       }, 1000);
     });
   });
