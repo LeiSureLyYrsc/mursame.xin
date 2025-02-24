@@ -4,6 +4,6 @@
 
 烂活，烂代码
 
-参考[0d00.cn](0d00.cn)
+参考[0d00.cn](https://github.com/lgc2333/0d00.cn)
 
 [0d000721.xin](https://0d000721.xin)
